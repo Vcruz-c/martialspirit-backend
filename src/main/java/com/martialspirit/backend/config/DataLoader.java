@@ -14,6 +14,7 @@ public class DataLoader {
     /**
      * Datos iniciales para desarrollo.
      * (Se eliminarán cuando el frontend esté conectado)
+     * De prueba para cargar datos
      */
 //    @Bean
 //    CommandLineRunner loadData(NewsRepository repo) {

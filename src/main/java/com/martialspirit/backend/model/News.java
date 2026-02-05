@@ -1,7 +1,6 @@
 package com.martialspirit.backend.model;
 
 import jakarta.persistence.*;
-
 import java.time.LocalDate;
 
 /**
